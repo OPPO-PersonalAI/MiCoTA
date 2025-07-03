@@ -103,6 +103,9 @@ This implementation is based on the original work released under the [MIT Licens
 | Hendrycks Math | Comprehensive Test | Diverse mathematical concepts |
 
 
+## Acknowledgments
+This repository is built upon [LLaMA-Factory](https://github.com/Small-Model-Gap/Small-Model-Learnability-Gap), [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) , [mergekit](https://github.com/arcee-ai/mergekit) , [Small-Model-Learnability-Gap](https://github.com/Small-Model-Gap/Small-Model-Learnability-Gap), and [hiyouga/math](https://huggingface.co/datasets/hiyouga/math12k). We would like to thank all contributors for their support.
+
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
