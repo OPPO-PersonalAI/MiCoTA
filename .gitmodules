@@ -1,0 +1,9 @@
+[submodule "mergekit"]
+	path = mergekit
+	url = git@github.com:arcee-ai/mergekit.git
+[submodule "lm-evaluation-harness"]
+	path = lm-evaluation-harness
+	url = git@github.com:EleutherAI/lm-evaluation-harness.git
+[submodule "LLaMA-Factory"]
+	path = LLaMA-Factory
+	url = git@github.com:hiyouga/LLaMA-Factory.git

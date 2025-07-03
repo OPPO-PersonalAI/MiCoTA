@@ -33,7 +33,7 @@ bash scripts/run_data_processing.sh
 ## 🧠 Model Architecture
 
 ### Merging Strategies
-We adopted [DARE]{arxiv.org/abs/} 
+We adopted [DARE](https://arxiv.org/abs/2311.03099) as our model merging method.
 
 ##### Build Environment
 ```bash
@@ -114,6 +114,7 @@ If you use MiCoTA in your research, please cite our work:
 ```bibtex
 @article{micota2025,
   title={MiCoTA: Bridging the Learnability Gap in Mathematical Reasoning with Intermediate Chain-of-Thought and Teacher Assistants},
+  tbd={tbd}
 }
 ```
 
