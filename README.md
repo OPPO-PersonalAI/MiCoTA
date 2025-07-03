@@ -105,16 +105,21 @@ This implementation is based on the original work released under the [MIT Licens
 
 ## 📜 License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📚 Citation
 
 If you use MiCoTA in your research, please cite our work:
 
 ```bibtex
-@article{micota2025,
-  title={MiCoTA: Bridging the Learnability Gap in Mathematical Reasoning with Intermediate Chain-of-Thought and Teacher Assistants},
-  tbd={tbd}
+@misc{ding2025micotabridginglearnabilitygap,
+      title={MiCoTA: Bridging the Learnability Gap with Intermediate CoT and Teacher Assistants}, 
+      author={Dongyi Ding and Tiannan Wang and Chenghao Zhu and Meiling Tao and Yuchen Eleanor Jiang and Wangchunshu Zhou},
+      year={2025},
+      eprint={2507.01887},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2507.01887}, 
 }
 ```
 
