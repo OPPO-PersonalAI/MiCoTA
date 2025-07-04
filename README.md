@@ -1,5 +1,5 @@
 
-# MiCoTA: Mitigating the Learnability Gap in Mathematical Reasoning via Intermediate Chain-of-Thought and Teacher Assistants
+# MiCoTA: Bridging the Learnability Gap with Intermediate CoT and Teacher Assistants
 ## 📌 Overview
 ![框架图](figs/framework.png)
 
